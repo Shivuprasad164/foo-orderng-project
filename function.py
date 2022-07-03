@@ -1,7 +1,7 @@
 class Admin:
     def __init__(self):
         self.food_list=[[1,"noodles","250 gms", 100, 20, 10],\
-        [2,"Pasta  ","250 gms ", 90, 10, 8],\
+        [2,"rice  ","150 gms ", 90, 10, 8],\
         [3,"Burger","   1  ", 130  , 30   , 15],\
         [4,"Pizza   "," 1    ",180,40,10],\
         [5,"Sandwich"," 1    ",170,20,10]]
